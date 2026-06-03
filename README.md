@@ -72,11 +72,13 @@ public class Vishvakumar {
 
 <div align="center">
 
-| Project | Highlights |
+| Project | Stack | Highlights |
 |---|---|---|
-| 🧠 **[Advancing Diabetic Diagnosis through CNN & ML](https://github.com/vishva042004)** | Enhanced diagnostic accuracy for diabetic retinopathy using CNNs; user-friendly Django interface for clinical data input and image analysis; supports early detection through ML prediction pipeline |
+| 🧠 **[Advancing Diabetic Diagnosis through CNN & ML](https://github.com/vishva042004)** | Python · Django · CNN · TensorFlow · Keras · ML | Enhanced diagnostic accuracy for diabetic retinopathy using CNNs; user-friendly Django interface for clinical data input and image analysis; supports early detection through ML prediction pipeline |
 
 </div>
+
+
 
 ---
 
@@ -113,7 +115,7 @@ public class Vishvakumar {
 ## 🌱 Currently Learning
 
 ```
-🧱 Full Stack Development  →  Java · HTML · CSS · JavaScript
+🧱 Full Stack Development  →  Java · HTML · CSS · JavaScript React.js
 🗃️  Databases               →  SQL
 ```
 
