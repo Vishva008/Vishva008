@@ -19,13 +19,11 @@ public class Vishvakumar {
 
     String[] stack = {
         "Java", "HTML", "CSS", "JavaScript",
-        "SQL", "Django", "Python", "CNN / ML"
+        "SQL"
     };
 
     String[] currentlyLearning = {
-        "Advanced Full Stack Development",
-        "Machine Learning & Deep Learning",
-        "Cloud Computing & DevOps"
+        "Full Stack Development"
     };
 
     String funFact = "I scored 3rd place in a Basketball CM Trophy! 🏀";
@@ -46,31 +44,12 @@ public class Vishvakumar {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -95,21 +74,7 @@ public class Vishvakumar {
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishva042004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishva042004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -174,10 +139,8 @@ public class Vishvakumar {
 ## 🌱 Currently Learning
 
 ```
-🧱 Full Stack Development  →  React.js · Node.js · REST APIs · Microservices
-🤖 Machine Learning        →  Deep Learning · CNNs · Model Deployment · MLOps
-☁️  Cloud & DevOps          →  AWS · Docker · CI/CD Pipelines · Linux Administration
-🗃️  Databases               →  PostgreSQL · MongoDB · Query Optimization
+🧱 Full Stack Development  →  Java · HTML · CSS · JavaScript
+🗃️  Databases               →  SQL
 ```
 
 ---
