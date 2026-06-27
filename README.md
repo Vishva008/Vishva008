@@ -115,8 +115,7 @@ public class Vishvakumar {
 ## 🌱 Currently Learning
 
 ```
-🧱 Full Stack Development  →  Java · HTML · CSS · JavaScript · React.js
-🗃️  Databases               →  SQL
+🧱 Full Stack Development  → React.js
 ```
 
 ---
